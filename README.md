@@ -1,4 +1,4 @@
-# Eaglercraft 1.5.2 Desktop Runtime (22w43a)
+## Eaglercraft 1.5.2 Desktop Runtime (22w43a)
 
 Desktop client for Eagler 1.5.2. The only point of using this is if the web or offline HTML version lags to much. Of course you need a server as there is no singleplayer, join a localhost server to play. 
 
